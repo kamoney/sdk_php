@@ -11,7 +11,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/kamoney/sdk"
+            "url": "https://github.com/kamoney/sdk_php"
         }
     ],
     "require": {
