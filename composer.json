@@ -7,13 +7,6 @@
             "php_sdk\\": "src/"
         }
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/kamoney/sdk_php"
-        }
-    ],
-    "require": {
-        "kamoney/sdk": "dev-main"
-    }
+    "require": {},
+    "version": "1.0.0"
 }
