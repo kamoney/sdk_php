@@ -2,14 +2,15 @@
 
 
 ```bash
-composer require kamoney/sdk_php
+composer require kamoney/sdk_php:dev-main
 
 ```
 
 How to setup ?
 
 ```text
-require __DIR__ . '/vendor/autoload.php';
+<?php
+require __DIR__ . '/vendor/kamoney/sdk_php/src/Kamoney.php';
 
 use sdk_php\Kamoney;
 
@@ -19,4 +20,5 @@ Kamoney::$secret_key = '****';
 $result = Kamoney::GetStatusMerchant();
 var_dump($result);
 
+?>
 ```
