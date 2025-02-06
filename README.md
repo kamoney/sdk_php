@@ -1,12 +1,29 @@
 # Kamoney API2 SDK
 
+How to setup ?
 
-```bash
-composer require kamoney/sdk_php:dev-main
+Add to composer 
+
+```text
+
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/kamoney/sdk_php"
+    }
+],
+"require": {
+    "kamoney/sdk_php": "dev-main"
+}
 
 ```
 
-How to setup ?
+```bash
+composer update
+
+```
+
+
 
 ```text
 <?php
