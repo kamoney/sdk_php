@@ -18,13 +18,14 @@ Add to composer.json
 
 ```
 
+Run
 ```bash
 composer update
 
 ```
 
 
-
+Init
 ```text
 <?php
 require __DIR__ . '/vendor/kamoney/sdk_php/src/Kamoney.php';
