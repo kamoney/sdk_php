@@ -1,0 +1,20 @@
+{
+    "name": "kamoney/sdk_php",
+    "description": "SDK Kamoney",
+    "autoload": {
+        "psr-4": {
+            "sdk_php\\": "src/"
+        }
+    },
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kamoney"
+        }
+    ],
+    "require": {
+        "kamoney/sdk": "1.0.0"
+    },
+    "version": "1.0.0"
+}
