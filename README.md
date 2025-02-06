@@ -2,6 +2,7 @@
 
 
 ```bash
+composer require kamoney/sdk_php
 
 ```
 
