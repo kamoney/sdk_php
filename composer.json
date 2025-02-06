@@ -7,7 +7,6 @@
             "php_sdk\\": "src/"
         }
     },
-    "version": "1.0.0",
     "repositories": [
         {
             "type": "vcs",
