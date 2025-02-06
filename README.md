@@ -2,7 +2,7 @@
 
 How to setup ?
 
-Add to composer 
+Add to composer.json
 
 ```text
 
