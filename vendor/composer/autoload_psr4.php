@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'sdk_php\\' => array($baseDir . '/src'),
+    'Immor\\SdkPhp\\' => array($baseDir . '/src'),
 );

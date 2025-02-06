@@ -7,14 +7,14 @@ namespace Composer\Autoload;
 class ComposerStaticInit276e2999c2a4d5fe4c1f355593ea936a
 {
     public static $prefixLengthsPsr4 = array (
-        's' => 
+        'I' => 
         array (
-            'sdk_php\\' => 8,
+            'Immor\\SdkPhp\\' => 13,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'sdk_php\\' => 
+        'Immor\\SdkPhp\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
